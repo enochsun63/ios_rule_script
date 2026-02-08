@@ -15,17 +15,17 @@
 
 ## 规则统计
 
-最后更新时间：2025-02-25 02:10:04
+最后更新时间：2026-02-08 02:06:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 16464  | 
-| DOMAIN-KEYWORD | 259  | 
-| DOMAIN-SUFFIX | 141947  | 
-| IP-CIDR | 456  | 
-| URL-REGEX | 12  | 
-| TOTAL | 159138  | 
+| DOMAIN | 16461  | 
+| DOMAIN-KEYWORD | 278  | 
+| DOMAIN-SUFFIX | 215811  | 
+| IP-CIDR | 489  | 
+| URL-REGEX | 14  | 
+| TOTAL | 233053  | 
 
 
 ## Shadowrocket 
@@ -105,7 +105,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

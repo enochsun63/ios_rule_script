@@ -16,14 +16,14 @@
 
 ## 规则统计
 
-最后更新时间：2025-02-23 02:14:54
+最后更新时间：2025-09-04 02:13:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| REJECT | 761  | 
-| MITM | 592  | 
-| TOTAL | 1353  | 
+| REJECT | 751  | 
+| MITM | 582  | 
+| TOTAL | 1333  | 
 
 
 ## QuantumultX 
@@ -66,9 +66,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
 - https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf
